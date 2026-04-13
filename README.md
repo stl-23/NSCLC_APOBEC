@@ -1,0 +1,1 @@
+  Mutational signatures of gene mutation from the gene panel(Amoydx 571 Master Panel) were calculated by SigMA (v 1.6) R package and signatures APOBEC and smoking were clustered based on the COSMIC signatures. Somatic SNV and small deletion and insertion, were included for calculation.
